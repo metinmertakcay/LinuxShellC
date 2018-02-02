@@ -1,7 +1,6 @@
 /**
 @author
 Name: Metin Mert AKÇAY
-Student no: 14011005
 E-Mail: metinmertakcayhpalytu@gmail.com
 Operating System: Ubuntu
 */
